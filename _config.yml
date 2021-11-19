@@ -20,8 +20,8 @@
 
 title:            'Green Oasis Community Garden Records'
 description:      'A Selection of Purpose Statements from Green Oasis Community Garden Records'
-url:              'https://rbzwillits.com'
-baseurl:          '/MoRUS'
+url:              'https://rbzwillits.github.io'
+baseurl:          '/green_oasis'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
