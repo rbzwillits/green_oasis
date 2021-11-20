@@ -24,4 +24,7 @@ rights: All images subject to copyright by Green Oasis Community Garden, Inc.
 order: '18'
 layout: oasis_item
 collection: Green_Oasis
+thumbnail: "/img/derivatives/iiif/images/obj18_00/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj18/manifest.json"
+full: ''
 ---

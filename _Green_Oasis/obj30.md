@@ -24,4 +24,7 @@ rights: Free Open Source
 order: '30'
 layout: oasis_item
 collection: Green_Oasis
+thumbnail: "/img/derivatives/iiif/images/obj30_00/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj30/manifest.json"
+full: "/img/derivatives/iiif/images/obj30_00/full/1140,/0/default.jpg"
 ---
