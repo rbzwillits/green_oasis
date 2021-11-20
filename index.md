@@ -8,7 +8,7 @@ banner:
   height: '500px'
 ---
 
-The Museum of Reclaimed Urban Space (MoRus) is dedicated to preserving the history of grassroots led activism within the Lower East Side. The Following documents represents a selection from the Green Oasis Community Garden Records held at MoRus. 
+The Museum of Reclaimed Urban Space (MoRus) is dedicated to preserving the history of grassroots led activism within the Lower East Side. The Following documents represents a selection from the Green Oasis Community Garden Records held at MoRUS. 
 
 ### Browse the Collection
 

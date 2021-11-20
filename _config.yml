@@ -20,9 +20,9 @@
 
 title:            'Green Oasis Community Garden Records'
 description:      'A Selection of Purpose Statements from Green Oasis Community Garden Records'
-url:              'https://rbzwillits.github.io'
+url:              'https://morusnyc.github.io'
 baseurl:          '/green_oasis'
-copyright:        'Example copyright org, 2019'
+copyright:        'All images owned by Green Oasis Community Garden, Inc. and subject to copywrite by Green Oasis. For permissions and reproduction rights, contact john@morusnyc.org'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -88,9 +88,9 @@ search:
       Green_Oasis:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - identifier
+          - series_title
+          - folder_number
           - title
-          - description
           - creator
           - contributor
           - publisher
@@ -98,10 +98,13 @@ search:
           - _date
           - language
           - type
-          - format
+          - format_1
+          - format_2
           - relation
           - coverage
-          - subject
+          - subject_1
+          - subject_2
+          - subject_3
           - rights
 
 # --------------------------------------------------------------
